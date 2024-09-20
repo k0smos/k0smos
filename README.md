@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java ✅ HTML CSS ✅ Maven ✅ Postgre SQL ✅ Spring ⏳
 ------------------------------------------------
 
-I have 2+ years of experience in Java, also PostgreSQL, Maven.
+I'm a student in CZU. I have 2+ years of experience in Java, also PostgreSQL, Maven.
 
 * 🌍  I'm based in Czech Republic
 * ✉️  You can contact me at [pashasinitsyn@mail.ru](mailto:pashasinitsyn@mail.ru)
